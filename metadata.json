@@ -1,0 +1,5 @@
+
+{
+  "name": "Sophisticated Electricity Bill Calculator",
+  "description": "A frontend-only program to calculate the electricity bill of Indian households. It represents the total payable amount in rupees (₹) and includes default fixed charges. Users can input wattage, usage hours, and days to generate an accurate electricity bill."
+}
