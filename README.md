@@ -8,8 +8,8 @@ The **Electricity Bill Calculator** is a simple web-based tool built using **HTM
 
 ##  Features
 
-*  Calculates bill based on **Indian tariff slabs**
-*  Includes **fixed charges by default**
+*  Calculates bill based on **Indian CURRENCY**
+*  Includes **UNIT RATES IN BUILTt**
 *  Simple and responsive **UI/UX**
 *  Built with **HTML, CSS, JavaScript** only
 *  Provides quick results with no backend required
