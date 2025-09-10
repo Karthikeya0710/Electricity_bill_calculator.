@@ -52,6 +52,13 @@ Electricity-Bill-Calculator/
 * JavaScript
 
 ---
+## OUTPUT
+<img width="1883" height="967" alt="image" src="https://github.com/user-attachments/assets/f97a32ca-4aae-4c3f-9250-1ce1d87f58dd" />
+
+
+
+
+
 
  Future Improvements
 
